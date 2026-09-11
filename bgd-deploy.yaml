@@ -20,4 +20,4 @@ spec:
           image: rkskek0718/bgd-arm64:1.0
           env:
             - name: COLOR
-              value: "blue"
+              value: "red"
