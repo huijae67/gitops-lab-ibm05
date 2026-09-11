@@ -11,4 +11,4 @@ resources:
 images:
 - name: huijae67/hello-app
   newName: huijae67/hello-app
-  newTag: "0568334"
+  newTag: 2e6f276
