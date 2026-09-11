@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: bgd
-          image: quay.io/rhdevelopers/bgd:1.0.0
+          image: rkskek0718/bgd-arm64:1.0
           env:
             - name: COLOR
               value: "blue"
